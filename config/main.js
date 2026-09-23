@@ -1,7 +1,7 @@
 // This changes the title of your site
 
-var sitename = "native."; // Change this to change the name of your website.
-var subtext = "v1.2"; // set the subtext
+var sitename = "SchoolGamz."; // Change this to change the name of your website.
+var subtext = "v1.67"; // set the subtext
 
 // more settings in main.css
 
